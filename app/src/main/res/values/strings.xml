@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MosbySample</string>
+    <string name="mosby_mvp_but">mosby_mvp_but</string>
+    <string name="mosby_mvp_lce_but">mosby_mvp_lce_but</string>
+    <string name="mosby_mvi_but">mosby_mvi_but</string>
+    <string name="mosby_mvp_viewstate_but">mosby_mvp_viewstate_but</string>
+    <string name="button">Button</string>
+    <string name="message">СООБЩЕНИЕ</string>
+    <string name="getmessage">GetMessage</string>
+    <string name="geterror">GetError</string>
+</resources>
